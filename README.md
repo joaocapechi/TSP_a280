@@ -1,5 +1,9 @@
 # TSP_a280
 
+> [!NOTE]
+> O único uso de IA foi na parte da classe na função `__repr__`, pois não sabia como utilizar a função `__str__` quando o objeto estava dentro de uma lista.  
+> O resto do código foi criado por mim.
+
 ## Problema
 O problema escolhido foi o a280 da TSPLib, o qual consiste em pontos que devem ser minerados de forma eficiente, escolhendo a menor rota.  
 Há 280 pontos no arquivo do problema, com suas respectivas coordenadas (x;y) e o método usado para calcular a distância: euclidiana.  
